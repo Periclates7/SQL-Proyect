@@ -34,7 +34,7 @@ En este momento, ya con los datos adaptados a nuestras relaciones, cargamos los 
   
 El diagrama resultante se muestra a continuación:  
   
-![EDR](https://github.com/Periclates7/SQL-Proyect/blob/main/img/diagrama%20de%20relaciones.png)  
+![EDR](https://github.com/Periclates7/SQL-Proyect/blob/main/img/diagrama%20de%20relaciones%20copia.png)  
   
 ## 🐬 CONCLUSIONES
 El conjunto de datos era manejable y de buena calidad para establecer una base de datos relacional, intuitiva y de fácil manejo para el cliente. Saco en claro que es importante adelantarse al cliente y pensar en todas las necesidades que puedan surgir en el futuro. Téngase en cuenta que nuestra base de datos una vez creada, es inmutable.  
