@@ -1,4 +1,4 @@
-![Poster peliculas](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperbetter.com%2Fes%2Fsearch%3Fq%3Dcarteles%2Bde%2Bpel%25C3%25ADculas%2Bcollage&psig=AOvVaw0hU_HJMFBOxtyVgIP6XiNP&ust=1675672522645000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjd2N38_fwCFQAAAAAdAAAAABAE)
+![Poster peliculas](https://p4.wallpaperbetter.com/wallpaper/443/241/271/art-collage-digital-fan-wallpaper-preview.jpg)
 
 # PROYECTO SQL -> VIDEOCLUB 📼📀  
   
@@ -38,5 +38,6 @@ El diagrama resultante se muestra a continuación:
   
 ## 🐬 CONCLUSIONES
 El conjunto de datos era manejable y de buena calidad para establecer una base de datos relacional, intuitiva y de fácil manejo para el cliente. Saco en claro que es importante adelantarse al cliente y pensar en todas las necesidades que puedan surgir en el futuro. Téngase en cuenta que nuestra base de datos una vez creada, es inmutable.  
+  
 En la ruta 'data/querys/query.sql' de este repositorio, encontrarán 10 ejemplos de querys que avalan el rendimiento y la funcionalidad de la recién creada base de datos.
 
